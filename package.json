@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:kaydist/react-package-template.git"
+    "url": "https://github.com/kaydist/react-package-template.git"
   },
   "author": "yourname",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaydist/react-package-template#issues"
+    "url": "https://github.com/kaydist/react-package-template.git#issues"
   },
-  "homepage": "https://github.com/kaydist/react-package-template#readme",
+  "homepage": "https://github.com/kaydist/react-package-template.git#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
